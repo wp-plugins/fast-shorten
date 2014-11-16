@@ -14,7 +14,7 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 ### Fast Shorten
 
-Fast URL shortener using Google API, just one shortcode to shorten your links and hover short link to get analytics clicks.
+Fast URL shortener using Google API, just one shortcode to shorten your links and hover short link to get analytics clicks. 
 
 ### The Features
 

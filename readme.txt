@@ -3,7 +3,7 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
 Tags: short link, shorten link, links, url shortener, api, url shorten, url short, link shortener, shortener, google api, analytics, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 2.7
-Tested up to: 4.0
+Tested up to: 4.0.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

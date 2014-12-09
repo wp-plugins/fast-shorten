@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Fast URL shortener using Google API, just one shortcode to shorten your links and hover short link to get analytics clicks. 
+Fast URL shortener using Google API, just one shortcode to shorten your links and hover short link to get analytics clicks.  
 
 == Description ==
 

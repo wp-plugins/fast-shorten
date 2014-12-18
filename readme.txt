@@ -29,9 +29,9 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 * [Please rate Fast Shorten plugin](https://wordpress.org/support/view/plugin-reviews/fast-shorten#postform)
 
-### Unlimited Web Hosting
+### Beautiful WordPress Themes
 
-* [Unlimited web hosting for $0.50 Only and one-click install WordPress](http://j.mp/hosting_50cent)
+* [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
 
 ### Premium WordPress Themes And Plugins
 

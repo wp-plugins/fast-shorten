@@ -12,7 +12,7 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 == Description ==
 
-### Fast Shorten                               
+### Fast Shorten                                
 
 Fast URL shortener using Google API, just one shortcode to shorten your links and hover short link to get analytics clicks.
 
@@ -33,7 +33,7 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 * [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
 
-### Premium WordPress Themes And Plugins
+### My Premium WordPress Themes And Plugins
 
 * [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
 * [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)

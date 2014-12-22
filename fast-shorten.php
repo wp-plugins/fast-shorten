@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Fast Shorten
-Plugin URI: http://qass.im/my-plugins
+Plugin URI: http://qass.im/my-plugins/
 Description: Fast URL shortener using Google API, just one shortcode to shorten your links and hover short link to get analytics clicks.
 Version: 1.0.0
 Author: Qassim Hassan

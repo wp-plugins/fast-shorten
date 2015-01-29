@@ -29,7 +29,7 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 * [Please rate Fast Shorten plugin](https://wordpress.org/support/view/plugin-reviews/fast-shorten#postform)
 
-### Zaman - WordPress Blog theme
+### Download Zaman WordPress Blog Theme
 
 * [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
 

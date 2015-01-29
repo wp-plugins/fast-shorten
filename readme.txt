@@ -29,9 +29,9 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 * [Please rate Fast Shorten plugin](https://wordpress.org/support/view/plugin-reviews/fast-shorten#postform)
 
-### January Big Bundle
+### Zaman - WordPress Blog theme
 
-* [Pick up 64 products worth $1,112 for just $39](http://j.mp/jan_b_b)
+* [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
 
 ### Beautiful WordPress Themes
 

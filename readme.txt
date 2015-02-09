@@ -23,7 +23,7 @@ Fast URL shortener using Google API, just one shortcode to shorten your links an
 
 ### Live Demo
 
-* [http://j.mp/fast_shorten_plugin_i](http://j.mp/fast_shorten_plugin_i)
+* [http://qass.im/my-plugins/fast-shorten/](http://qass.im/my-plugins/fast-shorten/)
 
 ### Rate The Plugin
 
